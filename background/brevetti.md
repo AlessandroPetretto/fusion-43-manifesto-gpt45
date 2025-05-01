@@ -49,6 +49,16 @@ Il presente deposito rappresenta una **svolta culturale e giuridica**:
 - [Medium: “La Marcia dei 10.000 GPU”](#) — uno degli articoli chiave
 - [README principale](../README.md) — contesto generale del progetto
 
+## 📎 Documentazione Legale & Tecnica
+
+Questa sezione raccoglie i documenti ufficiali associati al deposito e all'uso dell’invenzione Fusion.43:
+
+- 📄 [Contratto di Licenza EULA](../legal/eula.pdf)  
+- 🔐 [Informativa sulla Privacy & Licenza MIT](../legal/privacy_policy.pdf)  
+- 📜 [Registro Hash delle Certificazioni](../legal/hash_log_certifications.pdf)  
+- 🧭 [Guida & FAQ Fusion.43](../legal/faq_fusion43.pdf)  
+
+
 ---
 
 > 🧠 *“Nel momento in cui una macchina contribuisce alla nascita di un’idea brevettabile, anche il diritto deve aggiornarsi.”*  
